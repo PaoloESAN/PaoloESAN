@@ -8,9 +8,9 @@ I want to do amazing things.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paoloesan&show_icons=true&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api?username=paoloesan&show_icons=true&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloesan&hide=ruby,swift,dart&layout=compact&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoloesan&hide=ruby,swift,dart&layout=compact&theme=github_dark" />
 </div>
